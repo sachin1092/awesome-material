@@ -46,7 +46,6 @@ JS
   - [ember-paper](https://github.com/miguelcobain/ember-paper) — The Ember approach to Material Design
 
 
-
 SASS
 ==
   - [quantum-colors](https://github.com/nickpfisterer/quantum-colors) — Material Design color palette for your Sass projects

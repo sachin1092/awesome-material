@@ -12,6 +12,7 @@ Icons, Fonts and Colors
   - [LESS-Material-design-colors](https://github.com/tisign/LESS-Material-design-colors) — A .less file with al the Google material design colors
   - [sass-material-colors](https://github.com/minusfive/sass-material-colors) — An easy way to use Google's Material Design colors in your Sass/Scss project
   - [Google-Material-Design-Font-Icon](https://github.com/Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set
+  - [Material Design Icons](http://materialdesignicons.com/) — Community generated Material Design icon pack
 
 Animation
 ==
@@ -64,4 +65,7 @@ Other
   - [material-color-scheme](https://github.com/paradox41/material-color-scheme) — Sublime Text syntax theme based off the Material Design color palette
   - [framaterial](https://github.com/Framaterial/framaterial) — A Framework to create Material Design projects
   - [Material-UI](https://github.com/JonBergman/Material-UI) — Free user interface kit based on Google's material design
+  - [Material Design Templates](http://themeforest.net/tags/material%20design) — Various material design inspired themes and templates on ThemeForest
+  - [MaterialUp](http://www.materialup.com/) — Get your daily dose of Material design inspiration!
+  - [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette 
   

@@ -46,6 +46,7 @@ JS
 ==
   - [AngularJS](https://github.com/angular/material) — Material design for Angular
   - [ember-paper](https://github.com/miguelcobain/ember-paper) — The Ember approach to Material Design
+  - [material-design-lite](https://github.com/google/material-design-lite/) — Material Design Lite Components in HTML/CSS/JS http://getmdl.io
 
 
 SASS

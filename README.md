@@ -72,3 +72,9 @@ Other
   - [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.
   - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
   
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+
+## Contributing
+
+Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.

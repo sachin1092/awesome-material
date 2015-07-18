@@ -66,7 +66,6 @@ Other
   - [material_design_zh](https://github.com/1sters/material_design_zh) — Material Design Collaborative Chinese translation
   - [material-color-scheme](https://github.com/paradox41/material-color-scheme) — Sublime Text syntax theme based off the Material Design color palette.
   - [framaterial](https://github.com/Framaterial/framaterial) — A Framework to create Material Design projects.
-  - [Material-UI](https://github.com/JonBergman/Material-UI) — Free user interface kit based on Google's material design.
   - [Material Design Templates](http://themeforest.net/tags/material%20design) — Various material design inspired themes and templates on ThemeForest.
   - [MaterialUp](http://www.materialup.com/) — Get your daily dose of Material design inspiration!
   - [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.

@@ -27,7 +27,7 @@ Components
   - [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
   - [Material-Design-ColorPicker](https://github.com/Fraina/Material-Design-ColorPicker) — A Material Design Color Picker.
   - [material-design-color-palette](https://github.com/zavoloklom/material-design-color-palette) — Material Design Color Palette: LESS/CSS toolkit.
-  - [md-timepicker](https://github.com/virtual-dev/md-timepicker) — A Polymer Timepicker element in Material Design.
+  - [md-timepicker](https://github.com/dot-louis/md-timepicker) — A Polymer Timepicker element in Material Design.
   - [md-date-time](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
   - [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) — Material design floating menu with action buttons implemented as an Angularjs directive.
 
@@ -47,13 +47,13 @@ JS
   - [AngularJS](https://github.com/angular/material) — Material design for Angular.
   - [ember-paper](https://github.com/miguelcobain/ember-paper) — The Ember approach to Material Design.
   - [material-design-lite](https://github.com/google/material-design-lite/) — Material Design Lite Components in HTML/CSS/JS.
-  - [react-material](https://github.com/SanderSpies/react-material) — Material design components written with React.js and React Style.
+  - [react-material](https://github.com/BerkeleyTrue/react-material) — Material design components written with React.js and React Style.
 
 
 SASS
 ==
-  - [quantum-colors](https://github.com/nickpfisterer/quantum-colors) — Material Design color palette for your Sass projects.
-  - [quantum-shadows](https://github.com/nickpfisterer/quantum-shadows) — Material Design drop shadows for your Sass projects.
+  - [quantum-colors](https://github.com/nkpfstr/quantum-colors) — Material Design color palette for your Sass projects.
+  - [quantum-shadows](https://github.com/nkpfstr/quantum-shadows) — Material Design drop shadows for your Sass projects.
   - [google-material-design](https://github.com/axyz/google-material-design) — Small SASS library inspired by google material design guidelines.
 
 

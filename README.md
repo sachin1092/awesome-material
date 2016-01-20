@@ -12,7 +12,7 @@ Icons, Fonts and Colors
   - [LESS-Material-design-colors](https://github.com/tisign/LESS-Material-design-colors) — A .less file with al the Google material design colors.
   - [sass-material-colors](https://github.com/minusfive/sass-material-colors) — An easy way to use Google's Material Design colors in your Sass/Scss project.
   - [Google-Material-Design-Font-Icon](https://github.com/Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set.
-  - [Material Design Icons](http://materialdesignicons.com/) — Community generated Material Design icon pack.
+  - [Material Design Icons](https://materialdesignicons.com/) — Community generated Material Design icon pack.
 
 Animation
 ==
@@ -27,7 +27,7 @@ Components
   - [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
   - [Material-Design-ColorPicker](https://github.com/Fraina/Material-Design-ColorPicker) — A Material Design Color Picker.
   - [material-design-color-palette](https://github.com/zavoloklom/material-design-color-palette) — Material Design Color Palette: LESS/CSS toolkit.
-  - [md-timepicker](https://github.com/dot-louis/md-timepicker) — A Polymer Timepicker element in Material Design.
+  - [md-timepicker](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
   - [md-date-time](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
   - [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) — Material design floating menu with action buttons implemented as an Angularjs directive.
 

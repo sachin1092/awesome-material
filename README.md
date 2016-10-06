@@ -42,6 +42,7 @@ CSS
   - [material-playground](https://github.com/ebidel/material-playground) — Polymer material design playground.
   - [material-framework](https://github.com/nt1m/material-framework) — An easy to use material design based framework.
   - [mui](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
+  - [material-foundation](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
 
 JS
 ==

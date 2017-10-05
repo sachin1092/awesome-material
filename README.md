@@ -13,6 +13,7 @@ Icons, Fonts and Colors
   - [sass-material-colors](https://github.com/minusfive/sass-material-colors) — An easy way to use Google's Material Design colors in your Sass/Scss project.
   - [Google-Material-Design-Font-Icon](https://github.com/Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set.
   - [Material Design Icons](https://materialdesignicons.com/) — Community generated Material Design icon pack.
+  - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) — A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 
 Animation
 ==

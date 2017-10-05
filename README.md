@@ -68,6 +68,10 @@ WordPress
 ==
 - [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 
+XAML
+==
+ - [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) — Google's Material Design in XAML & WPF, for C# & VB.Net.
+
 Other
 ==
   - [material_design_zh](https://github.com/1sters/material_design_zh) — Material Design Collaborative Chinese translation

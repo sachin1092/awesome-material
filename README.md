@@ -48,6 +48,7 @@ CSS
 JS
 ==
   - [AngularJS](https://github.com/angular/material) — Material design for Angular.
+  - [DevExtreme](https://js.devexpress.com) — 65+ responsive and feature-complete UI components with customizable Material Design compliant themes. Available for Angular, React, Vue and jQuery.
   - [ember-paper](https://github.com/miguelcobain/ember-paper) — The Ember approach to Material Design.
   - [material-design-lite](https://github.com/google/material-design-lite/) — Material Design Lite Components in HTML/CSS/JS.
   - [react-material](https://github.com/BerkeleyTrue/react-material) — Material design components written with React.js and React Style.

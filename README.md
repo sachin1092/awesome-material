@@ -31,6 +31,7 @@ Components
   - [md-timepicker](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
   - [md-date-time](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
   - [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) — Material design floating menu with action buttons implemented as an Angularjs directive.
+  - [DevExtreme Reactive](https://devexpress.github.io/devextreme-reactive/react) - High-performance plugin-based React components for Material Design.
 
 
 CSS

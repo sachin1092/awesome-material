@@ -45,6 +45,7 @@ CSS
   - [material-framework](https://github.com/nt1m/material-framework) — An easy to use material design based framework.
   - [mui](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
   - [material-foundation](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
+  - [Tronic247 Material](https://www.tronic247.com/material/) - A material design framework based on jQuery and CSS
 
 JS
 ==

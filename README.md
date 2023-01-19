@@ -84,7 +84,7 @@ Other
   - [material-color-scheme](https://github.com/paradox41/material-color-scheme) — Sublime Text syntax theme based off the Material Design color palette.
   - [framaterial](https://github.com/Framaterial/framaterial) — A Framework to create Material Design projects.
   - [Material Design Templates](http://themeforest.net/tags/material%20design) — Various material design inspired themes and templates on ThemeForest.
-  - [https://flatlogic.com/templates
+  - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
   - [MaterialUp](http://www.materialup.com/) — Get your daily dose of Material design inspiration!
   - [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.
   - [Material Mobile Templates](https://flatlogic.com/templates) —  Material templates built with Flatlogic Platform.

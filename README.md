@@ -86,8 +86,9 @@ Other
   - [Material Design Templates](http://themeforest.net/tags/material%20design) — Various material design inspired themes and templates on ThemeForest.
   - [MaterialUp](http://www.materialup.com/) — Get your daily dose of Material design inspiration!
   - [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.
-  - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
+  - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design
   - [ScaffoldHub.io](https://scaffoldhub.io) — Generate full Angular Material applications with an online modeling tool!
+  - [Material Toolkit for LabVIEW](https://github.com/danielcoons/tsc-material-theme) - Material Design for LabVIEW applications; import, modify, and use generated themes.
   
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
